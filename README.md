@@ -1,14 +1,9 @@
 # scaled_box
 
-A new Flutter package project.
+<img src="https://raw.githubusercontent.com/madewithfelt/scaled_box/master/doc/images/hydrogen_scaled.png">
 
-## Getting Started
+Like `Transform.scale`, but affects layout.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+### ‼️ WORK IN PROGRESS ‼️
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This will not work in plenty of situations, nor is it published.
