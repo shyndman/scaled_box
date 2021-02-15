@@ -2,8 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/madewithfelt/scaled_box/master/doc/images/hydrogen_scaled.png">
 
-Like `Transform.scale`, but affects layout.
+`ScaledBox` is like `Transform.scale`, but unlike `Transform` also
+affects layout.
 
 ### ‼️ WORK IN PROGRESS ‼️
 
-This will not work in plenty of situations, nor is it published.
+This will not work in plenty of situations, and is not available on pub.dev.

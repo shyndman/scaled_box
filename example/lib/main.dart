@@ -25,9 +25,9 @@ class ScaledBoxExample extends StatelessWidget {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            for (double scale = 3.0; scale > 0; scale -= 0.5) ...[
+            for (double scale = 3.0; scale > 0.5; scale -= 0.5) ...[
               ScaledBox(scale: scale, child: hydrogen),
-              SizedBox(width: 8 * (scale / 3)),
+              SizedBox(width: 12 * (scale / 3)),
             ],
           ],
         ),
