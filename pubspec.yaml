@@ -1,5 +1,5 @@
 name: scaled_box
-description: A widget that proportionally scales its child, affecting its layout.
+description: Work in progress! A widget that proportionally scales its child, affecting its layout.
 version: 0.0.1
 homepage: https://github.com/madewithfelt/scaled_box
 
